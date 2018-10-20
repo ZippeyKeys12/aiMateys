@@ -9,8 +9,8 @@ It is a collection of expert knowledge in order to imitate a human expert.  The 
 The data can be represented in a couple ways:
 
 * Assertions about variables
-* Object-oriented assertions
-* If-Then statements
+* If-Then statements ([Production Rules](productionSystem.md))
+* Object-oriented implementations of the above
 
 ## Inference Engine
 
