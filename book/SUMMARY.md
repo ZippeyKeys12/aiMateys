@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-### Architecture
+## Architecture
 
 * [Symbolic AI](symbolic/README.md)
   * [Expert System](symbolic/expertSystem.md)
