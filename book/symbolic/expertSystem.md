@@ -1,6 +1,6 @@
 # Expert System
 
-Created by researchers at Stanford University, an expert system uses knowledge from a human expert to emulate one. They can be generally split into two parts: the knowledge base and the inference engine.
+Created by researchers at Stanford University, an expert system uses knowledge from a human expert to emulate one. They are split into two parts: the knowledge base and the inference engine.
 
 ## Knowledge Base
 
