@@ -1,6 +1,6 @@
 # Introduction
 
-**THIS IS A WORK-IN-PROGRESS**
+## THIS IS A WORK-IN-PROGRESS
 
 If you find any issues with this book, please make an issue or a pull request
 
