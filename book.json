@@ -2,5 +2,11 @@
     "root": "./book",
     "title": "AI Mateys!",
     "author": "Zain Aamer",
-    "description": "A book on various AI techniques"
+    "description": "A book on various AI techniques",
+    "plugins": ["codesnippet", "codetabs", "gist", "github", "livereload", "puml", "superscript", "quizzes"],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/ZippeyKeys12/aiMateys"
+        }
+    }
 }
