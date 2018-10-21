@@ -1,3 +1,6 @@
 # Symbolic AI
 
-Symbolic AI is the method of using representations of problems that are easier to understand.
+Symbolic AIs use high-level representations of problems, which makes them generally white-box solutions.
+
+* [Expert System](symbolic/expertSystem.md)
+* [Production System](symbolic/productionSystem.md)
