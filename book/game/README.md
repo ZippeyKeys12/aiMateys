@@ -7,3 +7,4 @@ Game AIs many times use cheating like querying the player's location when search
 However, it is useful in reducing the processing power that would be required for stronger AI.
 
 * [Finite-State Machine](finiteStateMachine.md)
+* [Steering Behaviors](steeringBehaviors.md)
