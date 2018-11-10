@@ -7,4 +7,5 @@
 * [Machine Learning](machine/README.md)
   * [Neural Network](machine/neuralNetwork.md)
 * [Game AI](game/README.md)
+  * [Finite-State Machine](game/finiteStateMachine.md)
 * [Glossary](GLOSSARY.md)
