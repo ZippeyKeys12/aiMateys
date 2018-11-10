@@ -8,4 +8,5 @@
   * [Neural Network](machine/neuralNetwork.md)
 * [Game AI](game/README.md)
   * [Finite-State Machine](game/finiteStateMachine.md)
+  * [Steering Behaviors](game/steeringBehaviors.md)
 * [Glossary](GLOSSARY.md)
